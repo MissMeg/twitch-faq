@@ -6,6 +6,7 @@
 * [Where did you learn to code?](#Where-did-you-learn-to-code)
 * [Do you have any programming guides or tutorials?](#Do-you-have-any-programming-guides-or-tutorials)
 * [Do you have any advice for new coders?](#Do-you-have-any-advice-for-new-coders)
+* [I have a question that's not on this FAQ. What do I do?](#I-have-a-question-that-is-not-on-this-FAQ-What-do-I-do)
 
 ## Where are you from?
 
@@ -46,3 +47,7 @@ Guides:
 * **Practice, Practice, Practice** Code a bit every day. Even if it is something small, try to do a bit each day. You will be surprised at the progress you make with this simple commitment.
 * **Find a Community** Whether it's here in the stream with me or elsewhere, find a group of people you can go to for help, guidance, etc.
 * **Measure Your Success Against Yourself** What did you learn today that you couldn't do or didn't know yesterday? Don't worry if you are progressing as fast as someone else, they are a completely different person with a different background, skill level, and time to dedicate to learning. Instead measure your success and achievements against your past self.
+
+## I have a question that is not on this FAQ. What do I do?
+
+Create an issue on this repo with your question. You can find the directions [here](https://github.com/MissMeg/twitch-faq/issues/1) and you can create a new issue [here](https://github.com/MissMeg/twitch-faq/issues).
