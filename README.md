@@ -1,8 +1,8 @@
 <!-- markdownlint-disable MD026 -->
 # Foobarnaut FAQ
 
-* [Where are you from?](#whereareyoufrom)
-* [What programming languages do you know?](#Whatprogramminglanguagesdoyouknow)
+* [Where are you from?](#where-are-you-from)
+* [What programming languages do you know?](#What-programming-languages-do-you-know)
 
 ## Where are you from?
 
