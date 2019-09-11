@@ -50,4 +50,4 @@ Guides:
 
 ## I have a question that is not on this FAQ. What do I do?
 
-Create an issue on this repo with your question. You can find the directions [here](https://github.com/MissMeg/twitch-faq/issues/1) and you can create a new issue [here](https://github.com/MissMeg/twitch-faq/issues).
+Create an issue on this repo with your question. You can find the directions [here](https://github.com/MissMeg/twitch-faq/issues/1) and you can create a new issue [here](https://github.com/MissMeg/twitch-faq/issues/new). **Check [current issues](https://github.com/MissMeg/twitch-faq/issues)** first in case your question has already been added.
