@@ -14,7 +14,7 @@ This should be an easy question to answer :sweat_smile: but I have quite a backg
 
 ## What programming languages do you know?
 
-I am currently familiar with the followingL
+I am currently familiar with the following:
 
 * HTML
 * CSS
